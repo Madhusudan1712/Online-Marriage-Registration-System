@@ -9,6 +9,8 @@
 ![1](https://github.com/Madhusudan1712/Online-Marriage-Registration-System/assets/146712964/2342ab2c-6641-4a6f-a6de-4ea97379c0d1)
 - admin login
 ![2](https://github.com/Madhusudan1712/Online-Marriage-Registration-System/assets/146712964/6fc7f292-e123-43ce-a6cb-431ed45e3cd4)
+- admin access to user registration form and admin can approve or reject user form
+![8](https://github.com/Madhusudan1712/Online-Marriage-Registration-System/assets/146712964/860a160a-3ebe-48bf-8d3c-b8242c26b400)
 - user signup (to create an account)
 ![3](https://github.com/Madhusudan1712/Online-Marriage-Registration-System/assets/146712964/1ba3973a-8ab6-4581-a912-87bb59a47711)
 - user login after creating an account
